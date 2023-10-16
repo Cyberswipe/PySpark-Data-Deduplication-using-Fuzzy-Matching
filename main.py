@@ -107,7 +107,8 @@ def main():
 
     logger.info("<---Spark session started--->")
 
-    input_file1, input_file2 = "/content/sample_data/file1.csv", "/content/sample_data/file2.csv"
+    #Input your file_name with path below
+    input_file1, input_file2 = "", ""
     output_path = "/content/sample_data/output"
     raw_data_frame = load_data_flag(spark, input_file1, input_file2)
 
