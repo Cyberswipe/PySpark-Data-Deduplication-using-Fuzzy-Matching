@@ -1,4 +1,4 @@
-# PySpark-based-Data-Deduplication-
+# Big-Data DeDuplication using Fuzzy matching
 A custom engineered deduplication framework authored in Pyspark using fuzzy logic. 
 
 # Abstract
